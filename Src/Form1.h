@@ -12,6 +12,7 @@
 //
 //    You should have received a copy of the GNU General Public License
 //    along with Mandelbrot-Gen.  If not, see <http://www.gnu.org/licenses/>.
+//    This is a change to test branching
 #pragma once
 #include "Options.h"
 int colourIndicator = 5;
